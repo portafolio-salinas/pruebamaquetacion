@@ -1,0 +1,79 @@
+body{
+	font-family: 'Raleway', sans-serif;
+}
+.flor-te {
+	background-image: url("../img/parallax-1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.cuadrado{
+	display:block;
+}
+.negro{
+	background-color:$negro;
+}
+.pasion{
+	background-image:url("../img/parallax-3.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color:white;
+
+	h1{
+		font-size: 30px;
+			
+		p{
+			font-size: 18px;
+			
+		}
+		
+	}
+}
+.nuestra{
+			padding-top: 15%;
+			padding-bottom: 15%;
+			color:white;
+}
+.clases-te{
+	padding-top:5%;
+	padding-bottom:5%;
+	h3{
+		color: $rosa;
+		p{
+			color: $negro;
+		}
+	}
+}
+img{
+	max-width:100%;
+}
+.uno{
+	background-image:url("../img/min-video-1-2.jpg");
+	background-size:100%;
+	background-repeat:no-repeat;
+}
+.dos{
+	background-image:url("../img/min-video-3.jpg");
+	background-size:100%;
+	background-repeat:no-repeat;
+
+}
+.tres{
+	background-image:url("../img/min-video-5.jpg");
+	background-size:100%;
+	background-repeat:no-repeat;
+
+}
+.cuatro{
+	background-image:url("../img/min-video-6.jpg");
+	background-size:100%;
+	background-repeat:no-repeat;
+
+}
+.espacio{
+	padding:30%;
+}
+.sobre{
+	background-image:url("../img/parallax-2.jpg");
+	background-repeat:no-repeat;
+	background-size:100%;
+}
