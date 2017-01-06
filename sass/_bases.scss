@@ -76,4 +76,24 @@ img{
 	background-image:url("../img/parallax-2.jpg");
 	background-repeat:no-repeat;
 	background-size:100%;
+	h1{
+		
+	}
+}
+.campos{
+	background-image:url("../img/parallax-4.jpg");
+	background-repeat:no-repeat;
+	background-size:100%;
+	h1{
+		color: white;
+		padding:15%;
+	}
+}
+.fuckslider{
+	max-width:100%;
+}
+.icon-1{
+	background-color:$piel;
+	max-width:100%;
+	width:100%;
 }

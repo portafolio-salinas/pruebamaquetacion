@@ -5874,4 +5874,20 @@ img {
   background-repeat: no-repeat;
   background-size: 100%; }
 
+.campos {
+  background-image: url("../img/parallax-4.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%; }
+  .campos h1 {
+    color: white;
+    padding: 15%; }
+
+.fuckslider {
+  max-width: 100%; }
+
+.icon-1 {
+  background-color: #F0E7AE;
+  max-width: 100%;
+  width: 100%; }
+
 /*# sourceMappingURL=main.css.map */
